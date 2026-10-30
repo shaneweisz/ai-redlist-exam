@@ -1,0 +1,16 @@
+# Passed to every harbor run via --extra-docker-compose (see run_eval.py).
+# Grants the trial container NET_ADMIN so its entrypoint
+# (network-lockdown.sh, from scripts/setup/generate_harbor_tasks.py) can
+# restrict egress to ALLOWED_HOSTS with iptables. Used instead of Harbor's
+# network_mode="allowlist", which needs a kernel module (CONFIG_NFT_FIB_INET)
+# this host lacks.
+#
+# ALLOWED_HOSTS is set by run_eval.py and substituted from its environment.
+# It must be set here rather than via --ae, which only reaches Harbor's later
+# `docker compose exec` calls, not the entrypoint at container start.
+services:
+  main:
+    cap_add:
+      - NET_ADMIN
+    environment:
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS:-}

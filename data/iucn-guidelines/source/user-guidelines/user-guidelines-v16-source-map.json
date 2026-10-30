@@ -1,0 +1,1107 @@
+{
+  "pdfPath": "user-guidelines/user-guidelines-v16.pdf",
+  "mdPath": "user-guidelines/user-guidelines-v16.md",
+  "totalPages": 122,
+  "sections": {
+    "2.1": {
+      "title": "Taxonomic level and scope of the categorization process 5",
+      "startPage": 2,
+      "endPage": 121,
+      "bbox": {
+        "x0": 85.704,
+        "top": 120.452,
+        "x1": 521.26,
+        "bottom": 132.452
+      }
+    },
+    "2.1.1": {
+      "title": "Taxonomic scale of categorization 5",
+      "startPage": 2,
+      "endPage": 5,
+      "bbox": {
+        "x0": 97.704,
+        "top": 134.25199999999995,
+        "x1": 521.26,
+        "bottom": 146.25199999999995
+      }
+    },
+    "2.1.2": {
+      "title": "Geographical scale of categorization 7",
+      "startPage": 2,
+      "endPage": 7,
+      "bbox": {
+        "x0": 97.704,
+        "top": 148.0519999999999,
+        "x1": 521.26,
+        "bottom": 160.0519999999999
+      }
+    },
+    "2.1.3": {
+      "title": "Introduced taxa and subpopulations 8",
+      "startPage": 2,
+      "endPage": 8,
+      "bbox": {
+        "x0": 97.704,
+        "top": 161.85199999999998,
+        "x1": 521.26,
+        "bottom": 173.85199999999998
+      }
+    },
+    "2.1.4": {
+      "title": "Managed subpopulations 9",
+      "startPage": 2,
+      "endPage": 9,
+      "bbox": {
+        "x0": 97.704,
+        "top": 175.65199999999993,
+        "x1": 521.26,
+        "bottom": 187.65199999999993
+      }
+    },
+    "2.2": {
+      "title": "Nature of the categories 9",
+      "startPage": 2,
+      "endPage": 9,
+      "bbox": {
+        "x0": 85.704,
+        "top": 189.452,
+        "x1": 521.26,
+        "bottom": 201.452
+      }
+    },
+    "2.2.1": {
+      "title": "Transfer between categories 12",
+      "startPage": 2,
+      "endPage": 12,
+      "bbox": {
+        "x0": 97.704,
+        "top": 203.25199999999995,
+        "x1": 521.26,
+        "bottom": 215.25199999999995
+      }
+    },
+    "2.3": {
+      "title": "Nature of the criteria 15",
+      "startPage": 2,
+      "endPage": 15,
+      "bbox": {
+        "x0": 85.704,
+        "top": 217.0519999999999,
+        "x1": 521.26,
+        "bottom": 229.0519999999999
+      }
+    },
+    "2.3.1": {
+      "title": "The quantitative thresholds 17",
+      "startPage": 2,
+      "endPage": 17,
+      "bbox": {
+        "x0": 97.704,
+        "top": 230.85199999999998,
+        "x1": 521.26,
+        "bottom": 242.85199999999998
+      }
+    },
+    "2.4": {
+      "title": "Conservation priorities and actions 19",
+      "startPage": 2,
+      "endPage": 19,
+      "bbox": {
+        "x0": 85.704,
+        "top": 244.6819999999999,
+        "x1": 521.26,
+        "bottom": 256.6819999999999
+      }
+    },
+    "2.5": {
+      "title": "Documentation 19",
+      "startPage": 2,
+      "endPage": 19,
+      "bbox": {
+        "x0": 85.704,
+        "top": 258.48199999999997,
+        "x1": 521.26,
+        "bottom": 270.48199999999997
+      }
+    },
+    "3.1": {
+      "title": "Data availability, inference, suspicion, and projection 20",
+      "startPage": 2,
+      "endPage": 20,
+      "bbox": {
+        "x0": 85.704,
+        "top": 286.082,
+        "x1": 521.26,
+        "bottom": 298.082
+      }
+    },
+    "3.2": {
+      "title": "Uncertainty 23",
+      "startPage": 2,
+      "endPage": 23,
+      "bbox": {
+        "x0": 85.704,
+        "top": 299.88199999999995,
+        "x1": 521.26,
+        "bottom": 311.88199999999995
+      }
+    },
+    "3.2.1": {
+      "title": "Types of uncertainty 23",
+      "startPage": 2,
+      "endPage": 23,
+      "bbox": {
+        "x0": 97.704,
+        "top": 313.6819999999999,
+        "x1": 521.26,
+        "bottom": 325.6819999999999
+      }
+    },
+    "3.2.2": {
+      "title": "Representing uncertainty 24",
+      "startPage": 2,
+      "endPage": 24,
+      "bbox": {
+        "x0": 97.704,
+        "top": 327.48199999999997,
+        "x1": 521.26,
+        "bottom": 339.48199999999997
+      }
+    },
+    "3.2.3": {
+      "title": "Dispute tolerance and risk tolerance 24",
+      "startPage": 2,
+      "endPage": 24,
+      "bbox": {
+        "x0": 97.704,
+        "top": 341.2819999999999,
+        "x1": 521.26,
+        "bottom": 353.2819999999999
+      }
+    },
+    "3.2.4": {
+      "title": "Dealing with uncertainty 25",
+      "startPage": 2,
+      "endPage": 25,
+      "bbox": {
+        "x0": 97.704,
+        "top": 355.08199999999994,
+        "x1": 521.26,
+        "bottom": 367.08199999999994
+      }
+    },
+    "3.2.5": {
+      "title": "Documenting uncertainty and interpreting listings 25",
+      "startPage": 2,
+      "endPage": 25,
+      "bbox": {
+        "x0": 97.704,
+        "top": 368.88199999999995,
+        "x1": 521.26,
+        "bottom": 380.88199999999995
+      }
+    },
+    "3.2.6": {
+      "title": "Uncertainty and the application of the categories Data Deficient and Near",
+      "startPage": 2,
+      "endPage": 25,
+      "bbox": {
+        "x0": 97.704,
+        "top": 382.68199999999996,
+        "x1": 521.3599999999998,
+        "bottom": 394.68199999999996
+      }
+    },
+    "4.1": {
+      "title": "Population and population size (criteria A, C and D) 26",
+      "startPage": 2,
+      "endPage": 26,
+      "bbox": {
+        "x0": 85.704,
+        "top": 424.102,
+        "x1": 521.26,
+        "bottom": 436.102
+      }
+    },
+    "4.2": {
+      "title": "Subpopulations (criteria B and C) 26",
+      "startPage": 2,
+      "endPage": 26,
+      "bbox": {
+        "x0": 85.704,
+        "top": 437.90199999999993,
+        "x1": 521.26,
+        "bottom": 449.90199999999993
+      }
+    },
+    "4.3": {
+      "title": "Mature individuals (criteria A, B, C and D) 26",
+      "startPage": 2,
+      "endPage": 26,
+      "bbox": {
+        "x0": 85.704,
+        "top": 451.70199999999994,
+        "x1": 521.26,
+        "bottom": 463.70199999999994
+      }
+    },
+    "4.3.1": {
+      "title": "Notes on defining mature individuals 27",
+      "startPage": 2,
+      "endPage": 27,
+      "bbox": {
+        "x0": 97.704,
+        "top": 465.50199999999995,
+        "x1": 521.26,
+        "bottom": 477.50199999999995
+      }
+    },
+    "4.3.2": {
+      "title": "Clonal colonial organisms 28",
+      "startPage": 2,
+      "endPage": 28,
+      "bbox": {
+        "x0": 97.704,
+        "top": 479.30199999999996,
+        "x1": 521.26,
+        "bottom": 491.30199999999996
+      }
+    },
+    "4.3.3": {
+      "title": "Fishes 29",
+      "startPage": 2,
+      "endPage": 29,
+      "bbox": {
+        "x0": 97.704,
+        "top": 493.102,
+        "x1": 521.26,
+        "bottom": 505.102
+      }
+    },
+    "4.3.4": {
+      "title": "Sex-changing organisms 29",
+      "startPage": 2,
+      "endPage": 29,
+      "bbox": {
+        "x0": 97.704,
+        "top": 506.90199999999993,
+        "x1": 521.26,
+        "bottom": 518.9019999999999
+      }
+    },
+    "4.3.5": {
+      "title": "Trees 30",
+      "startPage": 2,
+      "endPage": 30,
+      "bbox": {
+        "x0": 97.704,
+        "top": 520.702,
+        "x1": 521.26,
+        "bottom": 532.702
+      }
+    },
+    "4.4": {
+      "title": "Generation (criteria A, C1 and E) 30",
+      "startPage": 2,
+      "endPage": 30,
+      "bbox": {
+        "x0": 85.704,
+        "top": 534.502,
+        "x1": 521.26,
+        "bottom": 546.502
+      }
+    },
+    "4.5": {
+      "title": "Reduction (criterion A) 33",
+      "startPage": 2,
+      "endPage": 118,
+      "bbox": {
+        "x0": 85.704,
+        "top": 548.3019999999999,
+        "x1": 521.26,
+        "bottom": 560.3019999999999
+      }
+    },
+    "4.5.1": {
+      "title": "Calculating population reduction using statistical methods 33",
+      "startPage": 2,
+      "endPage": 33,
+      "bbox": {
+        "x0": 97.704,
+        "top": 562.102,
+        "x1": 521.26,
+        "bottom": 574.102
+      }
+    },
+    "4.5.2": {
+      "title": "Calculating population reduction using population models 38",
+      "startPage": 2,
+      "endPage": 38,
+      "bbox": {
+        "x0": 97.704,
+        "top": 631.132,
+        "x1": 521.26,
+        "bottom": 643.132
+      }
+    },
+    "4.5.3": {
+      "title": "Taxa with widely distributed or multiple subpopulations 38",
+      "startPage": 2,
+      "endPage": 38,
+      "bbox": {
+        "x0": 97.704,
+        "top": 644.932,
+        "x1": 521.26,
+        "bottom": 656.932
+      }
+    },
+    "4.5.4": {
+      "title": "Estimating overall reduction 39",
+      "startPage": 2,
+      "endPage": 39,
+      "bbox": {
+        "x0": 97.704,
+        "top": 658.732,
+        "x1": 521.26,
+        "bottom": 670.732
+      }
+    },
+    "4.5.5": {
+      "title": "Dealing with uncertainty 42",
+      "startPage": 2,
+      "endPage": 42,
+      "bbox": {
+        "x0": 97.704,
+        "top": 755.352,
+        "x1": 521.26,
+        "bottom": 767.352
+      }
+    },
+    "4.5.6": {
+      "title": "Fluctuations vs. reduction 44",
+      "startPage": 3,
+      "endPage": 44,
+      "bbox": {
+        "x0": 97.704,
+        "top": 145.89199999999994,
+        "x1": 521.26,
+        "bottom": 157.89199999999994
+      }
+    },
+    "4.6": {
+      "title": "Continuing decline (criteria B and C) 45",
+      "startPage": 3,
+      "endPage": 45,
+      "bbox": {
+        "x0": 85.704,
+        "top": 159.6919999999999,
+        "x1": 521.26,
+        "bottom": 171.6919999999999
+      }
+    },
+    "4.7": {
+      "title": "Extreme fluctuations (criteria B and C2) 46",
+      "startPage": 3,
+      "endPage": 46,
+      "bbox": {
+        "x0": 85.704,
+        "top": 173.49199999999996,
+        "x1": 521.26,
+        "bottom": 185.49199999999996
+      }
+    },
+    "4.8": {
+      "title": "Severely fragmented (criterion B) 49",
+      "startPage": 3,
+      "endPage": 49,
+      "bbox": {
+        "x0": 85.704,
+        "top": 187.29199999999992,
+        "x1": 521.26,
+        "bottom": 199.29199999999992
+      }
+    },
+    "4.9": {
+      "title": "Extent of occurrence (criteria A and B) 51",
+      "startPage": 3,
+      "endPage": 51,
+      "bbox": {
+        "x0": 85.704,
+        "top": 201.09199999999998,
+        "x1": 521.26,
+        "bottom": 213.09199999999998
+      }
+    },
+    "4.10": {
+      "title": "Area of occupancy (criteria A, B and D) 54",
+      "startPage": 3,
+      "endPage": 54,
+      "bbox": {
+        "x0": 85.704,
+        "top": 214.89199999999994,
+        "x1": 521.26,
+        "bottom": 226.89199999999994
+      }
+    },
+    "4.10.1": {
+      "title": "Problems of scale 55",
+      "startPage": 3,
+      "endPage": 55,
+      "bbox": {
+        "x0": 97.704,
+        "top": 228.6919999999999,
+        "x1": 521.26,
+        "bottom": 240.6919999999999
+      }
+    },
+    "4.10.2": {
+      "title": "Methods for estimating AOO 55",
+      "startPage": 3,
+      "endPage": 55,
+      "bbox": {
+        "x0": 97.704,
+        "top": 242.52199999999993,
+        "x1": 521.26,
+        "bottom": 254.52199999999993
+      }
+    },
+    "4.10.3": {
+      "title": "The appropriate scale 56",
+      "startPage": 3,
+      "endPage": 119,
+      "bbox": {
+        "x0": 97.704,
+        "top": 256.322,
+        "x1": 521.26,
+        "bottom": 268.322
+      }
+    },
+    "4.10.4": {
+      "title": "Scale-area relationships 56",
+      "startPage": 3,
+      "endPage": 56,
+      "bbox": {
+        "x0": 97.704,
+        "top": 270.12199999999996,
+        "x1": 521.26,
+        "bottom": 282.12199999999996
+      }
+    },
+    "4.10.5": {
+      "title": "Scale correction factors 57",
+      "startPage": 3,
+      "endPage": 57,
+      "bbox": {
+        "x0": 97.704,
+        "top": 283.9219999999999,
+        "x1": 521.26,
+        "bottom": 295.9219999999999
+      }
+    },
+    "4.10.7": {
+      "title": "AOO and EOO based on habitat maps and models 60",
+      "startPage": 3,
+      "endPage": 60,
+      "bbox": {
+        "x0": 97.704,
+        "top": 339.12199999999996,
+        "x1": 521.26,
+        "bottom": 351.12199999999996
+      }
+    },
+    "4.10.8": {
+      "title": "Effect of sampling effort and detectability on estimates of AOO 61",
+      "startPage": 3,
+      "endPage": 61,
+      "bbox": {
+        "x0": 97.704,
+        "top": 352.92199999999997,
+        "x1": 521.26,
+        "bottom": 364.92199999999997
+      }
+    },
+    "4.10.9": {
+      "title": "Complementarity of AOO, EOO and number of locations 62",
+      "startPage": 3,
+      "endPage": 62,
+      "bbox": {
+        "x0": 97.704,
+        "top": 366.7219999999999,
+        "x1": 521.26,
+        "bottom": 378.7219999999999
+      }
+    },
+    "4.11": {
+      "title": "Location (criteria B and D) 63",
+      "startPage": 3,
+      "endPage": 63,
+      "bbox": {
+        "x0": 85.704,
+        "top": 380.52199999999993,
+        "x1": 521.26,
+        "bottom": 392.52199999999993
+      }
+    },
+    "4.12": {
+      "title": "Quantitative analysis (criterion E) 64",
+      "startPage": 3,
+      "endPage": 64,
+      "bbox": {
+        "x0": 85.704,
+        "top": 394.32199999999995,
+        "x1": 521.26,
+        "bottom": 406.32199999999995
+      }
+    },
+    "5.1": {
+      "title": "The basis of reductions 66",
+      "startPage": 3,
+      "endPage": 66,
+      "bbox": {
+        "x0": 85.704,
+        "top": 421.94199999999995,
+        "x1": 521.26,
+        "bottom": 433.94199999999995
+      }
+    },
+    "5.2": {
+      "title": "The use of time caps in criterion A 68",
+      "startPage": 3,
+      "endPage": 68,
+      "bbox": {
+        "x0": 85.704,
+        "top": 435.74199999999996,
+        "x1": 521.26,
+        "bottom": 447.74199999999996
+      }
+    },
+    "5.3": {
+      "title": "How to apply criterion A4 68",
+      "startPage": 3,
+      "endPage": 68,
+      "bbox": {
+        "x0": 85.704,
+        "top": 449.542,
+        "x1": 521.26,
+        "bottom": 461.542
+      }
+    },
+    "5.4": {
+      "title": "Reduction followed by short-term stabilization or increase: The 'ski-jump' effect 69",
+      "startPage": 3,
+      "endPage": 69,
+      "bbox": {
+        "x0": 85.704,
+        "top": 463.3419999999999,
+        "x1": 521.26,
+        "bottom": 475.3419999999999
+      }
+    },
+    "5.5": {
+      "title": "Historical reduction followed by long-term stabilization: Severely depleted",
+      "startPage": 3,
+      "endPage": 69,
+      "bbox": {
+        "x0": 85.704,
+        "top": 477.14199999999994,
+        "x1": 469.8140000000001,
+        "bottom": 489.14199999999994
+      }
+    },
+    "5.6": {
+      "title": "Fisheries 70",
+      "startPage": 3,
+      "endPage": 70,
+      "bbox": {
+        "x0": 85.704,
+        "top": 504.62199999999996,
+        "x1": 521.26,
+        "bottom": 516.622
+      }
+    },
+    "5.6.1": {
+      "title": "Fisheries management and extinction risk 70",
+      "startPage": 3,
+      "endPage": 70,
+      "bbox": {
+        "x0": 97.704,
+        "top": 518.422,
+        "x1": 521.26,
+        "bottom": 530.422
+      }
+    },
+    "5.6.2": {
+      "title": "Technical aspects of using criterion A for fisheries 71",
+      "startPage": 3,
+      "endPage": 71,
+      "bbox": {
+        "x0": 97.704,
+        "top": 532.222,
+        "x1": 521.26,
+        "bottom": 544.222
+      }
+    },
+    "5.7": {
+      "title": "Long-lived taxa 71",
+      "startPage": 3,
+      "endPage": 71,
+      "bbox": {
+        "x0": 85.704,
+        "top": 546.0219999999999,
+        "x1": 521.26,
+        "bottom": 558.0219999999999
+      }
+    },
+    "5.8": {
+      "title": "Relationship between loss of habitat and population reduction 71",
+      "startPage": 3,
+      "endPage": 71,
+      "bbox": {
+        "x0": 85.704,
+        "top": 559.8219999999999,
+        "x1": 521.26,
+        "bottom": 571.8219999999999
+      }
+    },
+    "8.1": {
+      "title": "Taxa known only from the type locality 75",
+      "startPage": 3,
+      "endPage": 75,
+      "bbox": {
+        "x0": 85.704,
+        "top": 615.0519999999999,
+        "x1": 521.26,
+        "bottom": 627.0519999999999
+      }
+    },
+    "8.2": {
+      "title": "Example of applying criterion D 75",
+      "startPage": 3,
+      "endPage": 75,
+      "bbox": {
+        "x0": 85.704,
+        "top": 628.852,
+        "x1": 521.26,
+        "bottom": 640.852
+      }
+    },
+    "8.3": {
+      "title": "Example of applying criterion D2 75",
+      "startPage": 3,
+      "endPage": 75,
+      "bbox": {
+        "x0": 85.704,
+        "top": 642.652,
+        "x1": 521.26,
+        "bottom": 654.652
+      }
+    },
+    "9.1": {
+      "title": "What is extinction? 76",
+      "startPage": 3,
+      "endPage": 76,
+      "bbox": {
+        "x0": 85.704,
+        "top": 670.252,
+        "x1": 521.26,
+        "bottom": 682.252
+      }
+    },
+    "9.2": {
+      "title": "Which method can be used? 76",
+      "startPage": 3,
+      "endPage": 76,
+      "bbox": {
+        "x0": 85.704,
+        "top": 684.0519999999999,
+        "x1": 521.26,
+        "bottom": 696.0519999999999
+      }
+    },
+    "9.3": {
+      "title": "Are there sufficient data? 77",
+      "startPage": 3,
+      "endPage": 77,
+      "bbox": {
+        "x0": 85.704,
+        "top": 697.852,
+        "x1": 521.26,
+        "bottom": 709.852
+      }
+    },
+    "9.4": {
+      "title": "Model components and parameters 78",
+      "startPage": 3,
+      "endPage": 78,
+      "bbox": {
+        "x0": 85.704,
+        "top": 711.6519999999999,
+        "x1": 521.26,
+        "bottom": 723.6519999999999
+      }
+    },
+    "9.4.1": {
+      "title": "Density dependence 78",
+      "startPage": 3,
+      "endPage": 78,
+      "bbox": {
+        "x0": 97.704,
+        "top": 725.452,
+        "x1": 521.26,
+        "bottom": 737.452
+      }
+    },
+    "9.4.2": {
+      "title": "Temporal variability 78",
+      "startPage": 3,
+      "endPage": 78,
+      "bbox": {
+        "x0": 97.704,
+        "top": 739.2479999999999,
+        "x1": 521.26,
+        "bottom": 751.2479999999999
+      }
+    },
+    "9.4.3": {
+      "title": "Spatial variability 79",
+      "startPage": 3,
+      "endPage": 79,
+      "bbox": {
+        "x0": 97.704,
+        "top": 753.072,
+        "x1": 521.26,
+        "bottom": 765.072
+      }
+    },
+    "9.5": {
+      "title": "Incorporating uncertainty 79",
+      "startPage": 4,
+      "endPage": 79,
+      "bbox": {
+        "x0": 85.704,
+        "top": 104.49199999999996,
+        "x1": 521.26,
+        "bottom": 116.49199999999996
+      }
+    },
+    "9.6": {
+      "title": "Documentation requirements 79",
+      "startPage": 4,
+      "endPage": 79,
+      "bbox": {
+        "x0": 85.704,
+        "top": 118.29199999999992,
+        "x1": 521.26,
+        "bottom": 130.29199999999992
+      }
+    },
+    "10.1": {
+      "title": "When to use the category Near Threatened 79",
+      "startPage": 4,
+      "endPage": 79,
+      "bbox": {
+        "x0": 85.704,
+        "top": 145.89199999999994,
+        "x1": 521.26,
+        "bottom": 157.89199999999994
+      }
+    },
+    "10.2": {
+      "title": "Not Evaluated and Data Deficient 81",
+      "startPage": 4,
+      "endPage": 81,
+      "bbox": {
+        "x0": 85.704,
+        "top": 159.6919999999999,
+        "x1": 521.26,
+        "bottom": 171.6919999999999
+      }
+    },
+    "10.3": {
+      "title": "When to use Data Deficient 81",
+      "startPage": 4,
+      "endPage": 81,
+      "bbox": {
+        "x0": 85.704,
+        "top": 173.49199999999996,
+        "x1": 521.26,
+        "bottom": 185.49199999999996
+      }
+    },
+    "10.4": {
+      "title": "When not to use Data Deficient 83",
+      "startPage": 4,
+      "endPage": 83,
+      "bbox": {
+        "x0": 85.704,
+        "top": 187.29199999999992,
+        "x1": 521.26,
+        "bottom": 199.29199999999992
+      }
+    },
+    "11.1": {
+      "title": "The extinct categories (EX and EW) 83",
+      "startPage": 4,
+      "endPage": 83,
+      "bbox": {
+        "x0": 85.704,
+        "top": 214.89199999999994,
+        "x1": 521.26,
+        "bottom": 226.89199999999994
+      }
+    },
+    "11.3": {
+      "title": "Assigning taxa to EX or CR(PE) 86",
+      "startPage": 4,
+      "endPage": 86,
+      "bbox": {
+        "x0": 85.704,
+        "top": 242.52199999999993,
+        "x1": 521.26,
+        "bottom": 254.52199999999993
+      }
+    },
+    "11.3.1": {
+      "title": "The Threats Model 86",
+      "startPage": 4,
+      "endPage": 86,
+      "bbox": {
+        "x0": 97.704,
+        "top": 256.322,
+        "x1": 521.26,
+        "bottom": 268.322
+      }
+    },
+    "11.3.2": {
+      "title": "The Records and Surveys Model 87",
+      "startPage": 4,
+      "endPage": 87,
+      "bbox": {
+        "x0": 97.704,
+        "top": 270.12199999999996,
+        "x1": 521.26,
+        "bottom": 282.12199999999996
+      }
+    },
+    "11.3.3": {
+      "title": "Interpreting the model results 88",
+      "startPage": 4,
+      "endPage": 88,
+      "bbox": {
+        "x0": 97.704,
+        "top": 283.9219999999999,
+        "x1": 521.26,
+        "bottom": 295.9219999999999
+      }
+    },
+    "11.4": {
+      "title": "Calculating the number of extinct species and extinction rates 90",
+      "startPage": 4,
+      "endPage": 90,
+      "bbox": {
+        "x0": 85.704,
+        "top": 297.722,
+        "x1": 521.26,
+        "bottom": 309.722
+      }
+    },
+    "12.1": {
+      "title": "Global climate change 91",
+      "startPage": 4,
+      "endPage": 91,
+      "bbox": {
+        "x0": 85.704,
+        "top": 325.322,
+        "x1": 521.26,
+        "bottom": 337.32199999999995
+      }
+    },
+    "12.1.1": {
+      "title": "Time horizons 91",
+      "startPage": 4,
+      "endPage": 91,
+      "bbox": {
+        "x0": 97.704,
+        "top": 339.12199999999996,
+        "x1": 521.26,
+        "bottom": 351.12199999999996
+      }
+    },
+    "12.1.2": {
+      "title": "Suggested steps for applying the criteria under climate change 92",
+      "startPage": 4,
+      "endPage": 92,
+      "bbox": {
+        "x0": 97.704,
+        "top": 352.92199999999997,
+        "x1": 521.26,
+        "bottom": 364.92199999999997
+      }
+    },
+    "12.1.3": {
+      "title": "Mechanisms 94",
+      "startPage": 4,
+      "endPage": 94,
+      "bbox": {
+        "x0": 97.704,
+        "top": 366.7219999999999,
+        "x1": 521.26,
+        "bottom": 378.7219999999999
+      }
+    },
+    "12.1.4": {
+      "title": "Very restricted distribution and plausibility/immediacy of threat (VU D2) 95",
+      "startPage": 4,
+      "endPage": 95,
+      "bbox": {
+        "x0": 97.704,
+        "top": 380.52199999999993,
+        "x1": 521.26,
+        "bottom": 392.52199999999993
+      }
+    },
+    "12.1.5": {
+      "title": "Definition of \"Location\" under climate change (B1, B2, D2) 96",
+      "startPage": 4,
+      "endPage": 96,
+      "bbox": {
+        "x0": 97.704,
+        "top": 394.32199999999995,
+        "x1": 521.26,
+        "bottom": 406.32199999999995
+      }
+    },
+    "12.1.6": {
+      "title": "Severe fragmentation (B1, B2, and C2) 98",
+      "startPage": 4,
+      "endPage": 98,
+      "bbox": {
+        "x0": 97.704,
+        "top": 408.14199999999994,
+        "x1": 521.26,
+        "bottom": 420.14199999999994
+      }
+    },
+    "12.1.7": {
+      "title": "Extreme fluctuations (B1, B2, and C2) 98",
+      "startPage": 4,
+      "endPage": 98,
+      "bbox": {
+        "x0": 97.704,
+        "top": 421.94199999999995,
+        "x1": 521.26,
+        "bottom": 433.94199999999995
+      }
+    },
+    "12.1.8": {
+      "title": "Inferring population reduction and continuing decline (A3,A4,B1,B2,C2) 99",
+      "startPage": 4,
+      "endPage": 99,
+      "bbox": {
+        "x0": 97.704,
+        "top": 435.74199999999996,
+        "x1": 521.26,
+        "bottom": 447.74199999999996
+      }
+    },
+    "12.1.9": {
+      "title": "Inferring reductions from bioclimatic models (A3, A4) 99",
+      "startPage": 4,
+      "endPage": 99,
+      "bbox": {
+        "x0": 97.704,
+        "top": 449.542,
+        "x1": 521.26,
+        "bottom": 461.542
+      }
+    },
+    "12.1.10": {
+      "title": "Inferring reductions from demographic change 100",
+      "startPage": 4,
+      "endPage": 100,
+      "bbox": {
+        "x0": 97.704,
+        "top": 463.3419999999999,
+        "x1": 521.26,
+        "bottom": 475.3419999999999
+      }
+    },
+    "12.1.11": {
+      "title": "Estimating extinction risk with coupled habitat-population models (E) 101",
+      "startPage": 4,
+      "endPage": 101,
+      "bbox": {
+        "x0": 97.704,
+        "top": 477.14199999999994,
+        "x1": 521.26,
+        "bottom": 489.14199999999994
+      }
+    },
+    "12.1.12": {
+      "title": "Using bioclimate models 101",
+      "startPage": 4,
+      "endPage": 101,
+      "bbox": {
+        "x0": 97.704,
+        "top": 490.94199999999995,
+        "x1": 521.26,
+        "bottom": 502.94199999999995
+      }
+    },
+    "1.12.1": {
+      "title": "Species data (the response variable) 103",
+      "startPage": 4,
+      "endPage": 103,
+      "bbox": {
+        "x0": 124.7,
+        "top": 504.62199999999996,
+        "x1": 521.26,
+        "bottom": 516.622
+      }
+    },
+    "1.12.2": {
+      "title": "Environmental variables (the predictor variables) 104",
+      "startPage": 4,
+      "endPage": 104,
+      "bbox": {
+        "x0": 124.7,
+        "top": 559.8219999999999,
+        "x1": 521.26,
+        "bottom": 571.8219999999999
+      }
+    },
+    "1.12.3": {
+      "title": "Model building and evaluation 106",
+      "startPage": 4,
+      "endPage": 106,
+      "bbox": {
+        "x0": 124.7,
+        "top": 628.852,
+        "x1": 521.26,
+        "bottom": 640.852
+      }
+    },
+    "0.208": {
+      "title": "However, this approach assumes that the slope of the area-area curve is constant, which is unlikely",
+      "startPage": 58,
+      "endPage": 58,
+      "bbox": {
+        "x0": 64.824,
+        "top": 491.542,
+        "x1": 530.518,
+        "bottom": 523.3419999999999
+      }
+    },
+    "0.9": {
+      "title": "EX, if P(E) \u2265 0.9",
+      "startPage": 88,
+      "endPage": 88,
+      "bbox": {
+        "x0": 93.144,
+        "top": 475.414,
+        "x1": 264.008,
+        "bottom": 503.90199999999993
+      }
+    }
+  }
+}

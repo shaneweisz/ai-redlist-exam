@@ -1,0 +1,40 @@
+{
+  "pdfPath": "supporting-info/supporting-info-guidelines.pdf",
+  "mdPath": "supporting-info/supporting-info-guidelines.md",
+  "totalPages": 68,
+  "sections": {
+    "3.4": {
+      "title": "Numbers and dates ...................................................................................\u2026. 36",
+      "startPage": 2,
+      "endPage": 2,
+      "bbox": {
+        "x0": 85.08,
+        "top": 496.88399999999996,
+        "x1": 496.8,
+        "bottom": 509.12399999999997
+      }
+    },
+    "2.2.1": {
+      "title": "Taxonomic Notes",
+      "startPage": 18,
+      "endPage": 18,
+      "bbox": {
+        "x0": 56.64,
+        "top": 731.51028,
+        "x1": 192.0558,
+        "bottom": 745.5502799999999
+      }
+    },
+    "2.3.2": {
+      "title": "Data fields for the Red List Criteria calculator in SIS",
+      "startPage": 26,
+      "endPage": 26,
+      "bbox": {
+        "x0": 56.64,
+        "top": 611.39028,
+        "x1": 405.183,
+        "bottom": 625.4302799999999
+      }
+    }
+  }
+}

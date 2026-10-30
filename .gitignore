@@ -1,0 +1,20 @@
+.claude/
+__pycache__/
+.env
+.venv/
+
+# Pure build output, deterministically regenerated from data/exam/parsed_questions/ +
+# scripts/setup/generate_harbor_tasks.py + data/exam/dedup_keep_list.txt -- never
+# commit it (a full regeneration touches thousands of files and buries any
+# real change). Run scripts/setup/generate_harbor_tasks.py to rebuild.
+/tasks/
+
+# Eval run results (--jobs-dir points here, not inside /tasks/, so that
+# regenerating or deleting the disposable task tree can never touch run
+# history). Not committed -- individual results get shared via
+# `harbor upload` when needed, not by checking them into git.
+/runs/
+
+# Pure build output, regenerated from /runs/ by
+# scripts/analysis/build_results_html.py. Never commit -- rerun the script to rebuild.
+/reports/

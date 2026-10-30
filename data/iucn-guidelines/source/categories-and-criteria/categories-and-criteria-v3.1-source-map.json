@@ -1,0 +1,18 @@
+{
+  "pdfPath": "categories-and-criteria/categories-and-criteria-v3.1.pdf",
+  "mdPath": "categories-and-criteria/categories-and-criteria-v3.1.md",
+  "totalPages": 38,
+  "sections": {
+    "3.1": {
+      "title": "Second edition",
+      "startPage": 1,
+      "endPage": 2,
+      "bbox": {
+        "x0": 102.4496,
+        "top": 167.9699999999999,
+        "x1": 203.36960000000002,
+        "bottom": 179.9699999999999
+      }
+    }
+  }
+}

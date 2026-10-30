@@ -1,0 +1,491 @@
+{
+  "pdfPath": "mapping-standards/mapping-standards-v1.20.pdf",
+  "mdPath": "mapping-standards/mapping-standards-v1.20.md",
+  "totalPages": 32,
+  "sections": {
+    "1.1": {
+      "title": "Why spatial data are required 4",
+      "startPage": 2,
+      "endPage": 31,
+      "bbox": {
+        "x0": 107.9,
+        "top": 168.212,
+        "x1": 522.34,
+        "bottom": 180.212
+      }
+    },
+    "1.2": {
+      "title": "Reasons for a distribution map 4",
+      "startPage": 2,
+      "endPage": 31,
+      "bbox": {
+        "x0": 107.9,
+        "top": 185.01199999999994,
+        "x1": 522.34,
+        "bottom": 197.01199999999994
+      }
+    },
+    "1.3": {
+      "title": "IUCN Red List versus IUCN Green Status mapping 5",
+      "startPage": 2,
+      "endPage": 5,
+      "bbox": {
+        "x0": 107.9,
+        "top": 201.812,
+        "x1": 522.34,
+        "bottom": 213.812
+      }
+    },
+    "1.3.1": {
+      "title": "Historical range 5",
+      "startPage": 2,
+      "endPage": 5,
+      "bbox": {
+        "x0": 125.9,
+        "top": 218.61199999999997,
+        "x1": 522.34,
+        "bottom": 230.61199999999997
+      }
+    },
+    "1.3.2": {
+      "title": "Mapping of Subspecies, Varieties or Subpopulations versus Green Status",
+      "startPage": 2,
+      "endPage": 6,
+      "bbox": {
+        "x0": 125.9,
+        "top": 235.442,
+        "x1": 503.68399999999997,
+        "bottom": 247.442
+      }
+    },
+    "2.1": {
+      "title": "Species distribution text and map status in SIS 7",
+      "startPage": 2,
+      "endPage": 7,
+      "bbox": {
+        "x0": 107.9,
+        "top": 282.842,
+        "x1": 522.34,
+        "bottom": 294.842
+      }
+    },
+    "2.2": {
+      "title": "Countries of occurrence (COO) 7",
+      "startPage": 2,
+      "endPage": 7,
+      "bbox": {
+        "x0": 107.9,
+        "top": 299.642,
+        "x1": 522.34,
+        "bottom": 311.642
+      }
+    },
+    "2.3": {
+      "title": "Distribution map 8",
+      "startPage": 2,
+      "endPage": 8,
+      "bbox": {
+        "x0": 107.9,
+        "top": 316.442,
+        "x1": 522.34,
+        "bottom": 328.442
+      }
+    },
+    "3.1": {
+      "title": "Terrestrial and marine taxa 9",
+      "startPage": 2,
+      "endPage": 9,
+      "bbox": {
+        "x0": 107.9,
+        "top": 350.042,
+        "x1": 522.34,
+        "bottom": 362.042
+      }
+    },
+    "3.2": {
+      "title": "Inland water taxa (freshwater) 9",
+      "startPage": 2,
+      "endPage": 9,
+      "bbox": {
+        "x0": 107.9,
+        "top": 366.722,
+        "x1": 522.34,
+        "bottom": 378.722
+      }
+    },
+    "4.1": {
+      "title": "Polygon and point data 10",
+      "startPage": 2,
+      "endPage": 10,
+      "bbox": {
+        "x0": 107.9,
+        "top": 400.342,
+        "x1": 522.3399999999999,
+        "bottom": 412.342
+      }
+    },
+    "4.1.1": {
+      "title": "Required polygon and point attributes 10",
+      "startPage": 2,
+      "endPage": 10,
+      "bbox": {
+        "x0": 125.9,
+        "top": 417.142,
+        "x1": 522.3399999999999,
+        "bottom": 429.142
+      }
+    },
+    "4.1.2": {
+      "title": "Recommended polygon and point attributes 12",
+      "startPage": 2,
+      "endPage": 12,
+      "bbox": {
+        "x0": 125.9,
+        "top": 433.942,
+        "x1": 522.3399999999999,
+        "bottom": 445.942
+      }
+    },
+    "4.1.3": {
+      "title": "Optional data attributes 14",
+      "startPage": 2,
+      "endPage": 14,
+      "bbox": {
+        "x0": 125.9,
+        "top": 450.74199999999996,
+        "x1": 522.3399999999999,
+        "bottom": 462.74199999999996
+      }
+    },
+    "5.1": {
+      "title": "Presence codes 14",
+      "startPage": 2,
+      "endPage": 14,
+      "bbox": {
+        "x0": 107.9,
+        "top": 484.342,
+        "x1": 522.3399999999999,
+        "bottom": 496.342
+      }
+    },
+    "5.2": {
+      "title": "Origin Codes 16",
+      "startPage": 2,
+      "endPage": 16,
+      "bbox": {
+        "x0": 107.9,
+        "top": 501.142,
+        "x1": 522.3399999999999,
+        "bottom": 513.142
+      }
+    },
+    "5.3": {
+      "title": "Seasonality Codes 16",
+      "startPage": 2,
+      "endPage": 16,
+      "bbox": {
+        "x0": 107.9,
+        "top": 517.942,
+        "x1": 522.3399999999999,
+        "bottom": 529.942
+      }
+    },
+    "5.4": {
+      "title": "Presence, Origin and Seasonality quick reference 17",
+      "startPage": 2,
+      "endPage": 17,
+      "bbox": {
+        "x0": 107.9,
+        "top": 534.742,
+        "x1": 522.3399999999999,
+        "bottom": 546.742
+      }
+    },
+    "6.1": {
+      "title": "Countries with multiple distribution codes in the spatial data 18",
+      "startPage": 2,
+      "endPage": 18,
+      "bbox": {
+        "x0": 107.9,
+        "top": 568.3720000000001,
+        "x1": 522.3399999999999,
+        "bottom": 580.3720000000001
+      }
+    },
+    "7.1": {
+      "title": "Extent of occurrence (EOO) 19",
+      "startPage": 2,
+      "endPage": 19,
+      "bbox": {
+        "x0": 107.9,
+        "top": 601.972,
+        "x1": 522.3399999999999,
+        "bottom": 613.972
+      }
+    },
+    "7.1.1": {
+      "title": "How should EOO be calculated for polygon maps and point maps? 19",
+      "startPage": 2,
+      "endPage": 19,
+      "bbox": {
+        "x0": 125.9,
+        "top": 618.772,
+        "x1": 522.3399999999999,
+        "bottom": 630.772
+      }
+    },
+    "7.2": {
+      "title": "Area of occupancy (AOO) 21",
+      "startPage": 2,
+      "endPage": 21,
+      "bbox": {
+        "x0": 107.9,
+        "top": 635.572,
+        "x1": 522.3399999999999,
+        "bottom": 647.572
+      }
+    },
+    "8.1": {
+      "title": "Software and formats 23",
+      "startPage": 2,
+      "endPage": 23,
+      "bbox": {
+        "x0": 107.9,
+        "top": 669.172,
+        "x1": 522.3399999999999,
+        "bottom": 681.172
+      }
+    },
+    "8.2": {
+      "title": "Tools 23",
+      "startPage": 2,
+      "endPage": 23,
+      "bbox": {
+        "x0": 107.9,
+        "top": 685.968,
+        "x1": 522.3399999999999,
+        "bottom": 697.968
+      }
+    },
+    "8.3": {
+      "title": "Standard GIS layers / basedata 24",
+      "startPage": 2,
+      "endPage": 24,
+      "bbox": {
+        "x0": 107.9,
+        "top": 702.768,
+        "x1": 522.3399999999999,
+        "bottom": 714.768
+      }
+    },
+    "8.4": {
+      "title": "Mapping consistency 24",
+      "startPage": 3,
+      "endPage": 24,
+      "bbox": {
+        "x0": 107.9,
+        "top": 73.77199999999993,
+        "x1": 522.3399999999999,
+        "bottom": 85.77199999999993
+      }
+    },
+    "8.5": {
+      "title": "Sensitive species guidelines 26",
+      "startPage": 3,
+      "endPage": 26,
+      "bbox": {
+        "x0": 107.9,
+        "top": 90.572,
+        "x1": 522.3399999999999,
+        "bottom": 102.572
+      }
+    },
+    "8.5.1": {
+      "title": "Generalised polygon 26",
+      "startPage": 3,
+      "endPage": 26,
+      "bbox": {
+        "x0": 125.9,
+        "top": 107.37199999999996,
+        "x1": 522.3399999999999,
+        "bottom": 119.37199999999996
+      }
+    },
+    "9.1": {
+      "title": "Countries of occurrence (COO) data 27",
+      "startPage": 3,
+      "endPage": 27,
+      "bbox": {
+        "x0": 107.9,
+        "top": 140.97199999999998,
+        "x1": 522.3399999999999,
+        "bottom": 152.97199999999998
+      }
+    },
+    "9.2": {
+      "title": "Legend combinations from distribution codes 27",
+      "startPage": 3,
+      "endPage": 27,
+      "bbox": {
+        "x0": 107.9,
+        "top": 157.77199999999993,
+        "x1": 522.3399999999999,
+        "bottom": 169.77199999999993
+      }
+    },
+    "10.1": {
+      "title": "Presence Codes (last updated 2024) 28",
+      "startPage": 3,
+      "endPage": 28,
+      "bbox": {
+        "x0": 107.9,
+        "top": 191.37199999999996,
+        "x1": 522.3399999999999,
+        "bottom": 203.37199999999996
+      }
+    },
+    "10.1.1": {
+      "title": "Implications of updated Presence for existing spatial data (2014) 28",
+      "startPage": 3,
+      "endPage": 28,
+      "bbox": {
+        "x0": 125.9,
+        "top": 208.17200000000003,
+        "x1": 522.3399999999999,
+        "bottom": 220.17200000000003
+      }
+    },
+    "10.1.2": {
+      "title": "Presence code Expected Additional Range (2024) 29",
+      "startPage": 3,
+      "endPage": 29,
+      "bbox": {
+        "x0": 125.9,
+        "top": 224.97199999999998,
+        "x1": 522.3399999999999,
+        "bottom": 236.97199999999998
+      }
+    },
+    "10.2": {
+      "title": "Origin code Assisted Colonisation (last updated 2016) 29",
+      "startPage": 3,
+      "endPage": 29,
+      "bbox": {
+        "x0": 107.9,
+        "top": 241.80200000000002,
+        "x1": 522.3399999999999,
+        "bottom": 253.80200000000002
+      }
+    },
+    "10.3": {
+      "title": "Legend Update (last updated 2016) 29",
+      "startPage": 3,
+      "endPage": 29,
+      "bbox": {
+        "x0": 107.9,
+        "top": 258.602,
+        "x1": 522.3399999999999,
+        "bottom": 270.602
+      }
+    },
+    "10.4": {
+      "title": "Spatial distributions for infra-rank assessments (last updated 2021) 29",
+      "startPage": 3,
+      "endPage": 29,
+      "bbox": {
+        "x0": 107.9,
+        "top": 275.40200000000004,
+        "x1": 522.3399999999999,
+        "bottom": 287.402
+      }
+    },
+    "1.5": {
+      "title": "Able/ Steven Bachman/ Multiple changes post RLTWG",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 276.86,
+        "x1": 414.94132,
+        "bottom": 286.82
+      }
+    },
+    "1.7": {
+      "title": "Ackbar Joolia",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 333.26,
+        "x1": 229.87531999999996,
+        "bottom": 343.22
+      }
+    },
+    "1.8": {
+      "title": "Editing, numbering, formatting, etc.",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 358.46,
+        "x1": 438.60628,
+        "bottom": 368.42
+      }
+    },
+    "1.9": {
+      "title": "Jemma Window Editing text for Spatial Updates",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 383.65999999999997,
+        "x1": 419.38376000000005,
+        "bottom": 393.62
+      }
+    },
+    "1.10": {
+      "title": "Jemma Window",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 408.88,
+        "x1": 241.56835999999998,
+        "bottom": 418.84000000000003
+      }
+    },
+    "1.11": {
+      "title": "Jemma Window",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 433.96,
+        "x1": 241.56835999999998,
+        "bottom": 443.92
+      }
+    },
+    "1.12": {
+      "title": "Finalise edits",
+      "startPage": 31,
+      "endPage": 31,
+      "bbox": {
+        "x0": 82.824,
+        "top": 459.15999999999997,
+        "x1": 345.65984,
+        "bottom": 469.12
+      }
+    },
+    "1.20": {
+      "title": "RLTWG",
+      "startPage": 32,
+      "endPage": 32,
+      "bbox": {
+        "x0": 82.824,
+        "top": 161.14999999999998,
+        "x1": 206.1008,
+        "bottom": 171.11
+      }
+    }
+  }
+}
